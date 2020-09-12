@@ -1,5 +1,6 @@
 # USTD
 The source code of the USTD (The Untold Sentiments at Tourists Destination) project.
+NOTE: We are still extending the USTD  as much as possible
 # The Untold Sentiments at Tourists Destination
 USTD (The Untold Sentiments at Tourists Destination) .
 
